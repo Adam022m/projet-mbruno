@@ -48,7 +48,7 @@ https://github.com/Adam022m/projet-mbruno.git
 
 2. Déplacez-vous dans le répertoire du projet :
 
-[Ligne de commande]
+cd /repertoire_du_projet
 
 ## Technologies utilisées
 
