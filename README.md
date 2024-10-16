@@ -43,7 +43,7 @@ Elle comprend deux parties principales :
 
 1. Clonez ce dépôt :
 
-[Ligne de commande pour cloner votre dépot]
+https://github.com/Adam022m/projet-mbruno.git
 
 2. Déplacez-vous dans le répertoire du projet :
 
