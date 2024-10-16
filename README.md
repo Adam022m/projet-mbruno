@@ -1,21 +1,39 @@
 # EatSmart
 
 ## Description
-[Présenter en une phrase l'application]
+
+Le projet consiste à la mise en place d'un site web dynamique. C'est le site web d'un restaurant nommé EatSmart. Le restaurateur demande une interface 
+permettant au client de communiquer avec le restauraunt comme commander ou voir le menu.]
 
 Elle comprend deux parties principales :
 
 [Les 2 parties de l'application]
 
-## Fonctionnalités principales
 ### Front-office (eatSmartFront)
+### Back-office (eatSmartBack)
 
 [Fonctionnalités du front]
 
-### Back-office (eatSmartBack)
+- **Fonctionnalité 1 :**  
+  Voir le menu disponible dans le restaurant	
+  
+- **Fonctionnalité 2 :**  
+  Passer commande dans le restaurant
+  
+- **Fonctionnalité 3 :**  
+  Recevoir une notification quand la commande est prête
 
 [Fonctionnalités du back]
 
+- **Fonctionnalité 1 :**  
+  Historique des commandes
+  
+- **Fonctionnalité 2 :**  
+  Changer les plats du menu
+  
+- **Fonctionnalité 3 :**  
+  Valider la commande quand elle est prête.
+  
 ## Installation
 
 ### Prérequis
@@ -35,9 +53,9 @@ Elle comprend deux parties principales :
 
 ## Technologies utilisées
 
-- **Frontend** : [Technologies]
-- **Backend** : [Technologies]
-- **Base de données** : [Technologies]
+- **Frontend** : HTML, CSS, JS
+- **Backend** : PHP, API Rest
+- **Base de données** : MySql
 
 ## Contributeurs
-- **Développeurs** : (Noms des membres de l'équipe)
+- **Développeurs** : Adam Merhab, Ali Moudjahidi 
