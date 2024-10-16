@@ -7,8 +7,6 @@ permettant au client de communiquer avec le restauraunt comme commander ou voir 
 
 Elle comprend deux parties principales :
 
-[Les 2 parties de l'application]
-
 ### Front-office (eatSmartFront)
 ### Back-office (eatSmartBack)
 
