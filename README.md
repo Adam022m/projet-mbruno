@@ -8,7 +8,6 @@ permettant au client de communiquer avec le restauraunt comme commander ou voir 
 Elle comprend deux parties principales :
 
 ### Front-office (eatSmartFront)
-### Back-office (eatSmartBack)
 
 [Fonctionnalités du front]
 
@@ -20,6 +19,8 @@ Elle comprend deux parties principales :
   
 - **Fonctionnalité 3 :**  
   Recevoir une notification quand la commande est prête
+  
+### Back-office (eatSmartBack)
 
 [Fonctionnalités du back]
 
